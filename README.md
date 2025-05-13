@@ -86,9 +86,8 @@ This is a Streamlit-based chatbot designed to offer empathetic support and basic
 
 5.  **Run the Application:**
     ```bash
-    streamlit run "final_chatbot - Copy.py"
+    streamlit run "mentalchatbot.py" 
     ```
-    (Replace `"final_chatbot - Copy.py"` with the actual name of your Python file if different.)
 
 ## How it Works
 
