@@ -40,8 +40,8 @@ This is a Streamlit-based chatbot designed to offer empathetic support and basic
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-name>
+    git clone <https://github.com/dheeraj2309/mentalhealth-chatbot>
+    cd <mentalhealth-chatbot>
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
@@ -107,6 +107,6 @@ This is a Streamlit-based chatbot designed to offer empathetic support and basic
 
 ## Disclaimer
 
-This chatbot is for informational and emotional support purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition or mental health concerns. If you are in a crisis, please contact emergency services (e.g., 911 or your local emergency number) or a crisis hotline immediately.
+This chatbot is for informational and emotional support purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition or mental health concerns. If you are in a crisis, please contact emergency servicesor a crisis hotline immediately.
 
 ---
